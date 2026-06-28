@@ -1,0 +1,7 @@
+Image: receipt_agr.jpg
+Final decision: PASS
+Message: Document detected and perspective/readability output was generated.
+Confidence: 1.0
+Document area ratio: 0.975
+Quadrilateral detected: True
+Output size: 912x1399

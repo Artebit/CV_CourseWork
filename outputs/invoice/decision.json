@@ -1,0 +1,10 @@
+{
+  "image": "invoice.jpg",
+  "status": "PASS",
+  "message": "Document detected and perspective/readability output was generated.",
+  "confidence": 1.0,
+  "document_area_ratio": 0.909,
+  "quadrilateral_detected": true,
+  "output_width": 749,
+  "output_height": 561
+}

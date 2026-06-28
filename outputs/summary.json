@@ -1,0 +1,32 @@
+[
+  {
+    "image": "invoice.jpg",
+    "status": "PASS",
+    "message": "Document detected and perspective/readability output was generated.",
+    "confidence": 1.0,
+    "document_area_ratio": 0.909,
+    "quadrilateral_detected": true,
+    "output_width": 749,
+    "output_height": 561
+  },
+  {
+    "image": "receipt_agr.jpg",
+    "status": "PASS",
+    "message": "Document detected and perspective/readability output was generated.",
+    "confidence": 1.0,
+    "document_area_ratio": 0.975,
+    "quadrilateral_detected": true,
+    "output_width": 912,
+    "output_height": 1399
+  },
+  {
+    "image": "receipt_swiss.jpg",
+    "status": "PASS",
+    "message": "Document detected and perspective/readability output was generated.",
+    "confidence": 1.0,
+    "document_area_ratio": 0.995,
+    "quadrilateral_detected": true,
+    "output_width": 1049,
+    "output_height": 1399
+  }
+]

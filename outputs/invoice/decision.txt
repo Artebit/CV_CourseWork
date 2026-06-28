@@ -1,0 +1,7 @@
+Image: invoice.jpg
+Final decision: PASS
+Message: Document detected and perspective/readability output was generated.
+Confidence: 1.0
+Document area ratio: 0.909
+Quadrilateral detected: True
+Output size: 749x561

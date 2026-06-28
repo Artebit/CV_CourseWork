@@ -1,0 +1,10 @@
+{
+  "image": "receipt_agr.jpg",
+  "status": "PASS",
+  "message": "Document detected and perspective/readability output was generated.",
+  "confidence": 1.0,
+  "document_area_ratio": 0.975,
+  "quadrilateral_detected": true,
+  "output_width": 912,
+  "output_height": 1399
+}
